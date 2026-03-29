@@ -1,1 +1,1 @@
-This folder contains group assignments for Grouup #3.
+This folder contains group assignments for Group #3.
