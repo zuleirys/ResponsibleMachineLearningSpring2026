@@ -68,11 +68,7 @@ The notebook uses the following Python libraries:
 
 - `Individual_Assignment_05_Zuleirys_Santana_Rodriguez.ipynb` — Jupyter Notebook containing the full Assignment 5 implementation
 - `Individual_Assignment_05_Report.docx` — formatted written report for submission
-- `Individual_Assignment_05_Report.md` — markdown source for the written report
-- `DNSC_6330_Lecture-05.pdf` — Lecture 05 slides used as the assignment reference
-- `compas-scores-two-years.csv` — local dataset used by the notebook
 - `README.md` — project documentation for Assignment 5
-- `requirements.txt` — package list for recreating the environment
 
 ---
 
