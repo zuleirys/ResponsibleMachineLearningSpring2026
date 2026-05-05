@@ -1,0 +1,7 @@
+Section,Metric,Value,Interpretation
+Model,Selected model,Gradient Boosting,Best candidate after threshold tuning
+Model,Global threshold,0.7289,Threshold used for the base deployment policy
+Model,Test AUC,0.8424,Probability ranking quality on held-out data
+Model,Test F1,0.9037,Approval-class F1 at the tuned threshold
+Model,Test F1 Denial,0.5785,Denial-class F1 retained for error trade-off discussion
+Model,Generalization gap (AUC),-0.0015,Near zero means train/test ranking is stable

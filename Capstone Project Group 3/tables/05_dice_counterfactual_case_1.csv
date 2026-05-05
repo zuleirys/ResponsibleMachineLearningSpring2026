@@ -1,0 +1,4 @@
+income,debt_to_income_ratio,property_value,has_credit_score,co_applicant_has_credit_score,loan_type_2,loan_type_3,loan_type_4,loan_purpose_2,loan_purpose_4,loan_purpose_5,loan_purpose_31,loan_purpose_32,occupancy_type_2,occupancy_type_3,lien_status_2,conforming_loan_limit_NC,conforming_loan_limit_U,preapproval_2,submission_of_application_2,submission_of_application_1111,label
+49.0,23.9,255000.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+49.0,65.0,255000.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+49.0,42.0,255000.0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1

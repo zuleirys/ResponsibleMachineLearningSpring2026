@@ -1,0 +1,27 @@
+subgroup,pred_rate,AIR,ME,SMD,fails_80pct,attribute
+Joint,0.9177,1.0,0.1149,0.0,False,derived_race
+Asian,0.8824,0.9615,0.0948,-0.0933,False,derived_race
+White,0.8819,0.961,0.1,-0.1477,False,derived_race
+Race Not Available,0.8598,0.9369,0.138,-0.1985,False,derived_race
+Black or African American,0.8056,0.8778,0.1709,-0.4107,False,derived_race
+American Indian or Alaska Native,0.8015,0.8734,0.1729,-0.429,False,derived_race
+2 or more minority races,0.7931,0.8642,0.1721,-0.4327,False,derived_race
+Native Hawaiian or Other Pacific Islander,0.7732,0.8425,0.1589,-0.4981,False,derived_race
+Free Form Text Only,0.6241,0.6801,0.2073,-0.9911,True,derived_race
+Joint,0.9164,1.0,0.0996,0.0,False,derived_sex
+Sex Not Available,0.8701,0.9495,0.1374,-0.1395,False,derived_sex
+Male,0.8558,0.9339,0.1203,-0.2095,False,derived_sex
+Female,0.8241,0.8993,0.1167,-0.3371,False,derived_sex
+Joint,0.9069,1.0,0.1162,0.0,False,derived_ethnicity
+Not Hispanic or Latino,0.8778,0.9679,0.1042,-0.1185,False,derived_ethnicity
+Ethnicity Not Available,0.8655,0.9543,0.1366,-0.1404,False,derived_ethnicity
+Hispanic or Latino,0.8331,0.9186,0.1369,-0.2653,False,derived_ethnicity
+Free Form Text Only,0.6866,0.7571,0.1912,-0.7428,True,derived_ethnicity
+8888,0.9725,1.0,0.1079,0.0,False,applicant_age
+25-34,0.9156,0.9415,0.1008,-0.1519,False,applicant_age
+<25,0.9065,0.9321,0.107,-0.2104,False,applicant_age
+35-44,0.8831,0.9081,0.1186,-0.2703,False,applicant_age
+45-54,0.8584,0.8827,0.1264,-0.3682,False,applicant_age
+55-64,0.8402,0.864,0.1177,-0.4386,False,applicant_age
+65-74,0.819,0.8422,0.1028,-0.521,False,applicant_age
+>74,0.798,0.8206,0.1047,-0.5919,False,applicant_age

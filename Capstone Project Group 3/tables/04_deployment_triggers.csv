@@ -1,0 +1,5 @@
+Trigger Condition,Monitoring Mechanism,Required Action
+AIR drops below 0.80 for any primary racial group,Quarterly AIR audit on deployment decisions,Re-run threshold calibration and review deployment conditions
+FNR spread across racial groups exceeds 0.05,Quarterly subgroup error review,Pause deployment review until applicant-harm gap is explained or mitigated
+"PSI exceeds 0.10 on income, DTI, or property value",Monthly leading-indicator monitoring,Investigate drift and prepare retraining package
+Overall AUC drops below 0.80 or approval share shifts materially,Monthly model scorecard,Model review and recalibration before continued use
