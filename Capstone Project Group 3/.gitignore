@@ -1,0 +1,17 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Raw HMDA files
+Data/2024_lar.csv
+Data/2024_lar.txt
+Data/*.zip
+
+# Large intermediate artifacts
+df_filtered.csv
+*.parquet
+best_model.pkl
+
+# Local notebook runtime files
+*.nbconvert.ipynb
