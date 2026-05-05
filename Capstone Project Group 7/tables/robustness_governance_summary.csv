@@ -1,0 +1,7 @@
+Risk Type,Metric,What It Detects,Failure Mode,HMDA Finding,Policy Implication
+Covariate shift,PSI per feature,Input distribution change,Out-of-distribution inference,None flagged,Investigate input drift before score quality degrades
+Generalization failure,G_gap (Test - Train),Overfitting or unstable threshold policy,Unexpected production degradation,AUC gap = -0.0016,Keep the model simple enough to audit and rerun
+Spurious correlation,Permutation importance + proxy flag,Reliance on unstable or proxy features,Correct predictions for the wrong reasons,None flagged,Remove or justify proxy-like features
+Macroeconomic stress,Approval-rate sensitivity under scenarios,Policy sensitivity to shifts in applicant finances,Approval rates swing sharply under stress,Combined adverse delta = -0.1362,Set explicit monitoring triggers for macro shifts
+Subgroup disparity,Slice AIR + FNR/FPR by race/sex,Unequal deployment harm across protected groups,Disparate impact and wrongful-denial concentration,See 04_* fairness tables and 06_slice_* outputs,Monitor AIR and FNR together
+Temporal drift,Rolling AUC and PSI,Silent degradation after deployment,Model trained on 2024 conditions no longer matches reality,Not observable yet — requires post-deployment monitoring,"Monthly monitoring, quarterly fairness review, annual retrain decision"

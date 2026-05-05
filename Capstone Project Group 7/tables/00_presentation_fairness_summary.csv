@@ -1,0 +1,5 @@
+Section,Metric,Value,Interpretation
+Objective,Approval-class F1,0.7289,Global deployment threshold used before group-specific mitigation
+Fairness Before,Race groups failing AIR < 0.80,1.0,Free Form Text Only
+Fairness After,Race groups failing AIR < 0.80,0.0,None
+Residual Risk,Largest race-level FNR after mitigation,0.0462,Native Hawaiian or Other Pacific Islander

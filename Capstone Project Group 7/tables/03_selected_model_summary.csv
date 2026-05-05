@@ -1,0 +1,2 @@
+Model,Threshold Used,Test AUC,Test F1,Test F1 Denial,Test Accuracy,Test Brier,G_gap AUC
+Gradient Boosting,0.7289,0.8424,0.9037,0.5785,0.8433,0.135,-0.0015

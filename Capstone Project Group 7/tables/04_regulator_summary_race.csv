@@ -1,0 +1,10 @@
+group,n,base_rate,pred_rate,AIR,ME,SMD,FPR,FNR,fails_80pct
+Joint,37803,0.8029,0.9161,1.0,0.1132,0.0,0.6386,0.0158,False
+Asian,104674,0.7876,0.8803,0.9609,0.0927,-0.0909,0.5039,0.0182,False
+White,1109449,0.782,0.8798,0.9604,0.0978,-0.1427,0.5558,0.0299,False
+Race Not Available,306591,0.7218,0.8575,0.936,0.1357,-0.1977,0.5524,0.0249,False
+Black or African American,152065,0.6346,0.803,0.8765,0.1683,-0.4078,0.5317,0.0409,False
+American Indian or Alaska Native,12716,0.6286,0.7966,0.8696,0.1681,-0.4259,0.5181,0.0388,False
+2 or more minority races,4394,0.6211,0.7913,0.8638,0.1702,-0.4291,0.5057,0.0344,False
+Native Hawaiian or Other Pacific Islander,4224,0.6143,0.7675,0.8378,0.1532,-0.4955,0.4721,0.047,False
+Free Form Text Only,439,0.4169,0.6128,0.6689,0.1959,-0.9932,0.3711,0.0492,True

@@ -1,0 +1,4 @@
+Model,Threshold Used,Train AUC,Test AUC,Test F1,Test F1 Denial,Test Accuracy,Test Brier,G_gap AUC
+Gradient Boosting,0.5,0.844,0.8424,0.897,0.4717,0.8276,0.135,-0.0015
+Random Forest,0.5,0.8365,0.8321,0.8459,0.6021,0.7778,0.1624,-0.0043
+Logistic Regression,0.5,0.7455,0.7428,0.7863,0.5239,0.705,0.2031,-0.0027

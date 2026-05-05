@@ -1,0 +1,7 @@
+Scenario,Mean Score,Policy Approval Rate,Delta Score vs Base,Delta Approval Rate vs Base
+Baseline,0.8628,0.871,0.0,0.0
+Income shock -20%,0.8591,0.8681,-0.0037,-0.0029
+Property value -20%,0.8598,0.8705,-0.003,-0.0005
+DTI +10 points,0.7799,0.7461,-0.0829,-0.1249
+Loan amount +15%,0.8628,0.871,0.0,0.0
+Combined adverse,0.7706,0.7349,-0.0922,-0.1362

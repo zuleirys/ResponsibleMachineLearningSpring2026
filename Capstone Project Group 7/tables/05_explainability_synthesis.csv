@@ -1,0 +1,4 @@
+Method,Scope,Use Case,Key Finding
+SHAP (global),All test instances,Overall feature importance; audit trail,"debt_to_income_ratio, property_value, loan_purpose_32"
+LIME (local),Single instances,ECOA adverse action notice; individual explanation,See Case 2 (denial) explanation above
+DiCE (counterfactual),Denied applicants,Actionable recourse; what would change the outcome,See counterfactual results above
