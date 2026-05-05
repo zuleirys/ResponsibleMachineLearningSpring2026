@@ -1,0 +1,18 @@
+{
+  "policy_name": "air_floor_threshold_adjustment",
+  "global_threshold": 0.7289265594650804,
+  "reference_group": "Joint",
+  "reference_pred_rate": 0.9177,
+  "target_air_floor": 0.8,
+  "group_thresholds": {
+    "Joint": 0.7289265594650804,
+    "Asian": 0.7289265594650804,
+    "White": 0.7289265594650804,
+    "Race Not Available": 0.7289265594650804,
+    "Black or African American": 0.7289265594650804,
+    "American Indian or Alaska Native": 0.7289265594650804,
+    "2 or more minority races": 0.7289265594650804,
+    "Native Hawaiian or Other Pacific Islander": 0.7289265594650804,
+    "Free Form Text Only": 0.32498120163854693
+  }
+}
